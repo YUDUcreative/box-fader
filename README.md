@@ -20,6 +20,9 @@ color=blue&link=http://www.yudu.com&delay=3000&speed=1000
 
 If no query string is defined then the defaults of a white color background and 1000 milliseconds will be used.
 
+To test/preview in a browser, open the index.html file and add your query parameters. Then in browser console type ```init()```
+
+
 Enjoy :-)
 
 andrew.bibby@yudu.com
